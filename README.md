@@ -1,0 +1,2 @@
+# Ghana
+Republic of Ghana
