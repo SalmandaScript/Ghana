@@ -229,6 +229,16 @@ color: "teal"
 });
 });
 
+//previous page
+function gabon(){
+open("https://salmandascript.github.io/Gabon/Gabon.html");
+}
+
+//previous page
+function guinea(){
+open("https://salmandascript.github.io/Guinea/Guinea.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
